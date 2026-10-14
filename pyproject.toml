@@ -9,7 +9,7 @@ description = "A from-scratch Git implementation in pure Python with zero runtim
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "WuxieLUK" }]
+authors = [{ name = "EAnge1o" }]
 keywords = ["git", "version-control", "systems-programming", "educational", "zero-dependencies"]
 classifiers = [
     "Development Status :: 3 - Alpha",
