@@ -10,7 +10,7 @@
 > 和 [nimbus-kv](https://github.com/EAnge1o/nimbus-kv)（从零实现的 Raft KV）同属 Nimbus 系统系列：
 > 一个解决分布式一致性，一个解决内容寻址与版本控制。
 
-## 为什么值得拿奖
+## 项目亮点
 
 - **硬核系统主题**：不是 CRUD，而是实现 Git 的底层数据模型（blob/tree/commit/tag、SHA-1 内容寻址、zlib 压缩、loose object）。
 - **真实 Git 兼容**：`nimbus init` 建的仓库可以被原生 `git status / log / cat-file` 直接读取；也能读取原生 Git 创建的仓库。
